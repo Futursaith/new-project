@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/Futursaith/new-project.git",
   "author": "Futursaith <saith_7@hotmail.fr>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
 }
