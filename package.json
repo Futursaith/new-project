@@ -1,0 +1,8 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Futursaith/new-project.git",
+  "author": "Futursaith <saith_7@hotmail.fr>",
+  "license": "MIT"
+}
